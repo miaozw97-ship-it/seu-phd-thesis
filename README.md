@@ -42,4 +42,4 @@ cp SKILL.md "$HOME/AppData/Local/hermes/skills/research/seu-phd-thesis/"
 
 ## 作者
 
-苗桢武 (Zhenwu Miao) — 东南大学博士研究生
+Aim1ya
