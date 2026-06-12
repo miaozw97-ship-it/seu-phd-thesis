@@ -1,4 +1,4 @@
-# SEU PhD Thesis Reference Audit Skill
+# SEU PhD Thesis Reference Skill
 
 用于审查和受控修订东南大学博士学位论文中的参考文献、正文引用与顺序编号。
 
